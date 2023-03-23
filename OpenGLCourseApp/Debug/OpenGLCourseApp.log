@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLCourseApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Mesh.cpp
+  Shader.cpp
+  Window.cpp
+  Generating Code...
+C:\Users\Z6FMS\Documents\Visual Studio 2019\Projects\OpenGLCourseApp\OpenGLCourseApp\Window.cpp(64): warning C4715: 'Window::Initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLCourseApp.vcxproj -> C:\Users\Z6FMS\Documents\Visual Studio 2019\Projects\OpenGLCourseApp\Debug\OpenGLApp.exe
